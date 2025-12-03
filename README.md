@@ -31,11 +31,11 @@ Program
 import numpy as np
 import matplotlib.pyplot as plt
 
-am = 4.7
-fm = 372
-ac = 9.5
-fc = 3720
-fs = 37200
+am = 4.9
+fm = 356
+ac = 9.8
+fc = 3560
+fs = 35600
 beta = 5.2
 t = np.arange(0, 2/fm, 1/fs)
 
@@ -59,12 +59,12 @@ plt.show()
 
 Output Waveform
 
-<img width="630" height="470" alt="image" src="https://github.com/user-attachments/assets/85850851-acc2-47b8-b986-a15c95c6fce0" />
+![WhatsApp Image 2025-11-16 at 20 02 30_66b68bc1](https://github.com/user-attachments/assets/91dd5edb-4fd6-4197-ab9d-3d25eecaa5c6)
 
 
 Tabular Column
 
-![20251128_200044](https://github.com/user-attachments/assets/666b4fab-833f-4195-aa2b-0b8e014fadeb)
+![WhatsApp Image 2025-12-03 at 20 22 52_727275db](https://github.com/user-attachments/assets/70e6a672-3a9b-481d-9ad9-293eeb2c5a4f)
 
 
 Result
